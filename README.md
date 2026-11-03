@@ -1,12 +1,6 @@
-# Hi, I'm Yuri
+Hi, I'm Yuri. I build local-first tools for macOS and small AI products: a call assistant on whisper.cpp and Claude, a self-hosted replacement for Notion AI meeting notes, a behavioral layer for Claude Code.
 
-Full-stack and mobile team lead. Thirteen years in, React since 2014.
-
-**Now.** I lead the front-end of a white-label travel booking platform: one React codebase that runs 68 branded websites, an Expo app for iOS and Android, and the admin panel. I designed the brand layer that takes a new brand live in a day or two, own the multi-rail payments front (Stripe, Apple Pay, crypto), and run code review and standards for the team.
-
-**On the side.** AI products that real people use: agents with a human in the loop, LLM streaming with caching and per-user limits, local speech on macOS built on whisper.cpp and Swift.
-
-**Stack.** React, TypeScript, React Native / Expo, Node, Swift for macOS, Python when it fits. Claude and Mastra for agent work.
+Front-end lead at a travel platform by day. Side projects live here.
 
 ## Projects here
 
