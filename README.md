@@ -1,4 +1,4 @@
-Hi, I'm Yuri. I build local-first tools for macOS and small AI products: a call assistant on whisper.cpp and Claude, a self-hosted replacement for Notion AI meeting notes, a behavioral layer for Claude Code.
+Hi, I'm Yuri. I build local-first tools for macOS and small AI products: a behavioral layer for Claude Code, a self-hosted replacement for Notion AI meeting notes, a call assistant on whisper.cpp and Claude.
 
 Front-end lead at a travel platform by day. Side projects live here.
 
@@ -11,8 +11,8 @@ AI and agents
 - [voice-tutor-bot](https://github.com/leetio-varsha/voice-tutor-bot) — Telegram voice tutor for spoken Russian and English with per-word pronunciation scoring.
 
 Local speech on macOS
-- [Sufler](https://github.com/leetio-varsha/Sufler) — real-time call assistant: whisper.cpp transcribes both sides on-device, a hotkey streams a Claude answer back.
 - [echo](https://github.com/leetio-varsha/echo) — self-hosted replacement for Notion AI Meeting Notes: menu-bar app records calls, whisper.cpp transcribes, Claude summarizes into Notion.
+- [Sufler](https://github.com/leetio-varsha/Sufler) — real-time call assistant: whisper.cpp transcribes both sides on-device, a hotkey streams a Claude answer back.
 - [audiobook-tts](https://github.com/leetio-varsha/audiobook-tts) — ebook to M4B audiobook with local TTS on Apple Silicon: Silero, F5-TTS, Chatterbox, Qwen3-TTS via MLX.
 
 Small tools
