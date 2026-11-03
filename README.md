@@ -1,4 +1,4 @@
-Hi, I'm Yuri. I build local-first tools for macOS and small AI products: a behavioral layer for Claude Code, a self-hosted replacement for Notion AI meeting notes, an ebook-to-audiobook engine on Apple Silicon.
+Hi, I'm Yuri. I build local-first tools for macOS and small AI products: a behavioral layer for Claude Code, a self-hosted replacement for Notion AI meeting notes, a call copilot that transcribes both sides on-device.
 
 Front-end lead at a travel platform by day. Side projects live here.
 
@@ -12,6 +12,7 @@ AI and agents
 
 Local speech on macOS
 - [echo](https://github.com/leetio-varsha/echo) — self-hosted replacement for Notion AI Meeting Notes: menu-bar app records calls, whisper.cpp transcribes, Claude summarizes into Notion.
+- [livecall](https://github.com/leetio-varsha/livecall) — real-time call copilot for demos and client calls: two-track on-device transcription with whisper.cpp, briefing context from your docs, hotkey answers streamed from Claude.
 - [audiobook-tts](https://github.com/leetio-varsha/audiobook-tts) — ebook to M4B audiobook with local TTS on Apple Silicon: Silero, F5-TTS, Chatterbox, Qwen3-TTS via MLX.
 
 Small tools
